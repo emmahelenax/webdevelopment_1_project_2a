@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Setting up the basic structure for the webpage -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LOTR Character Search </title>
+
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&family=Meie+Script&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Petit+Formal+Script&family=Tangerine:wght@400;700&display=swap" rel="stylesheet">
+    <script src="script.js" defer></script>
+    
+
+</head>
+
+<!-- The body of the webpage-->
+<body>
+    <h1>Lord of the Rings - Character Search</h1>
+
+    <p>
+        What Lord of the Rings character do you want to know more about?
+    </p>
+
+    <section class="dropdown-section">
+        <label for="characterSelect">
+            Choose a character:
+        </label>
+
+        <select id="characterSelect">
+            <option value="">
+                Loading characters...
+            </option>
+        </select>
+    </section>
+
+    <div id="result"></div>
+
+</body>

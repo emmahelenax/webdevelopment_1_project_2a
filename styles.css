@@ -1,0 +1,42 @@
+h1 {
+    font-family:"Petit Formal Script", sans-serif;
+    font-size: 58px;
+    margin-top: 50px;
+    color: #232927;
+    background-color: #917c5d;
+}
+
+body {
+    text-align: center;
+    font-family: "Noto Serif", sans-serif;
+    line-height: 1.6;
+    color: black;
+    background-color:#eeece9;
+    background-repeat: repeat;
+    margin-top: 80px;
+}
+
+
+/*Styling the dropdown menu*/
+
+.dropdown-section {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.dropdown-section label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+
+#characterSelect {
+    color: white;
+    background-color: #2f1c1e;
+    font-size: 20px;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
