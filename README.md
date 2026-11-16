@@ -7,7 +7,7 @@ This is my repository for the 2nd project of the course.
 This project was done by Emma Botha-Sola. My application is a website where the user can search for information about the characters of the world of Lord of the Rings by J.R.R Tolkien. 
 
 ## Planned Features:
-1. User is able search for a character in the dropdown menu
+1. User is able search for a character in the dropdown list
 2. User is able to select a character
 3. User is able to see information about selecter character
 
@@ -21,16 +21,16 @@ Wifeframe of the website:
 
 ## **Weblinks**
 
-Published application: 
+Published application:  https://emmahelenax.github.io/webdevelopment_1_project_2a/
 
-Github repository: 
+Github repository: https://github.com/emmahelenax/webdevelopment_1_project_2a.git
 
 Project video presentation: https://video.laurea.fi/media/Botha-Sola_project2a_presentation/0_nsxb6s0i
 
 
 ## **About the Application**
 
-The Lord of the Rings Character Search is a small web application that uses a public API for LOTR characters. In this application the user can search through the dropdown list of different characters and choose a preferred one. After that the application gives information of the character e.g. their race, date of birth, homeplace. 
+The Lord of the Rings Character Search is a small and simple web application that uses a public API for LOTR characters. In this application the user can search through the dropdown list of different characters and choose a preferred one. After that the application gives information of the character e.g. their race, date of birth, homeplace. 
 
 ## **Technologies Used**
 
@@ -51,11 +51,11 @@ The Lord of the Rings Character Search is a small web application that uses a pu
 
 ## **Known Issues and Limitations**
 
-No known issues. Limitations for now were the simplicity of the page or the use of AJAX when suggested for this project was a Fetch API.
+No known issues. Limitations for now were the simplicity of the page because of the beginner-level skills of myself.
 
 ## **Self Assessment**
 
-For a completely new subject and new type of programming, I think it fits what was expected. It looks visually pleasing and is easy to use. For me JavaScript is still challenging, and requires more practice. I want to learn more, but this is proving to be more challenging than I thought. I still think this area of programming is fun and I am interested in it, so I just want to practice more.
+For a completely new subject and new type of programming, I think it fits what was expected. It looks visually pleasing and is easy to use. For me JavaScript is still challenging, and requires more practice. I want to learn more, but this is proving to be more challenging than I thought. I still think this area of programming is fun and I am interested in it, so I just want to practice more. I like that I can be creative and choose subjects that interest me in these projects.
 
 I think I would give myself an 7/10, because I think it checks the required boxes, but there is nothing too elaborate on the site and it is quite simple. 
 
@@ -66,6 +66,6 @@ The API was found from https://the-one-api.dev/
 
 Fonts were found from: https://fonts.google.com/
 
-Microsoft's Copilot was used to help with the functionality and JavaScript to know how to program the application.
+Microsoft's Copilot was used to help with the functionality and JavaScript to know how to program the application. Copilot was also asked if the application works and meets requirements of the assignment.
 
 Pinterest was used to find a color palette.
