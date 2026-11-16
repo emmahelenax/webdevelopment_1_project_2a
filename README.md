@@ -25,7 +25,7 @@ Published application:
 
 Github repository: 
 
-Project video presentation: 
+Project video presentation: https://video.laurea.fi/media/Botha-Sola_project2a_presentation/0_nsxb6s0i
 
 
 ## **About the Application**
