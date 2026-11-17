@@ -66,6 +66,6 @@ The API was found from https://the-one-api.dev/
 
 Fonts were found from: https://fonts.google.com/
 
-Microsoft's Copilot was used to help with the functionality and JavaScript to know how to program the application. Copilot was also asked if the application works and meets requirements of the assignment.
+Microsoft's Copilot AI was used to get help with the functionality and to get the JavaScript code to know how to program the application as needed in the assignment. Copilot was also asked if the application works and meets requirements of the assignment. 
 
 Pinterest was used to find a color palette.
