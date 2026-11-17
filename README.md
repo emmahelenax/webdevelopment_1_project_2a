@@ -4,7 +4,7 @@ This is my repository for the 2nd project of the course.
 
 # **Lord of the Rings Character Search**
 
-This project was done by Emma Botha-Sola. My application is a website where the user can search for information about the characters of the world of Lord of the Rings by J.R.R Tolkien. 
+This project was done by Emma Botha-Sola. My application is a website where the user can search for information about the characters of the world of Lord of the Rings by author J.R.R. Tolkien. 
 
 ## Planned Features:
 1. User is able search for a character in the dropdown list
@@ -30,7 +30,7 @@ Project video presentation: https://video.laurea.fi/media/Botha-Sola_project2a_p
 
 ## **About the Application**
 
-The Lord of the Rings Character Search is a small and simple web application that uses a public API for LOTR characters. In this application the user can search through the dropdown list of different characters and choose a preferred one. After that the application gives information of the character e.g. their race, date of birth, homeplace. 
+The Lord of the Rings Character Search is a small and simple web application that uses an API for a database of LOTR characters. In this application the user can search through the dropdown list of many (over 900) different characters of the world created by J.R.R. Tolkien, and choose a preferred one. After that the application gives information of the character e.g. their race, date of birth, homeplace. 
 
 ## **Technologies Used**
 
@@ -57,7 +57,7 @@ No known issues. Limitations for now were the simplicity of the page because of 
 
 For a completely new subject and new type of programming, I think it fits what was expected. It looks visually pleasing and is easy to use. For me JavaScript is still challenging, and requires more practice. I want to learn more, but this is proving to be more challenging than I thought. I still think this area of programming is fun and I am interested in it, so I just want to practice more. I like that I can be creative and choose subjects that interest me in these projects.
 
-I think I would give myself an 7/10, because I think it checks the required boxes, but there is nothing too elaborate on the site and it is quite simple. 
+I think I would give myself an 5/10, because I think it checks the required boxes, but there is nothing too elaborate on the site and it is quite simple. I would have also liked to not rely so much on AI and do more myself, but my skills are just not there yet. 
 
 
 ## **Sources and Acknowledgements**
